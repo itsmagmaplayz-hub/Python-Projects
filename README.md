@@ -3,7 +3,7 @@
 
 ## Disclaimer!
 some of the py projects require external libraries, which are all listed here:
-e<details>
+<details>
 <summary>external libraries</summary>
 
 pillow
