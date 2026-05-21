@@ -1,5 +1,5 @@
 # Python Projects
-## a repo for all my py projects
+### a repo for all my py projects
 
 ## Disclaimer!
 some of the py projects require external libraries, which are all listed here:
@@ -9,3 +9,4 @@ some of the py projects require external libraries, which are all listed here:
 pillow
 
 </details>
+all website py projects are in there own repos
