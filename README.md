@@ -9,4 +9,13 @@ some of the py projects require external libraries, which are all listed here:
 pillow
 
 </details>
+
 all website py projects are in there own repos
+<details>
+<summary>web py's</summary>
+
+GameHub (WIP) (github.com/itsmagmaplayz-hub/GameHub)
+
+ArcadeHub (WIP) (github.com/itsmagmaplayz-hub/ArcadeHub)
+
+</details>
